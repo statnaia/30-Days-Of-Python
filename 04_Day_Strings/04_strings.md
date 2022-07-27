@@ -374,7 +374,7 @@ print(challenge.index(sub_string, 9)) # error
 challenge = 'thirty days of python'
 sub_string = 'da'
 print(challenge.rindex(sub_string))  # 7
-print(challenge.rindex(sub_string, 9)) # error5
+print(challenge.rindex(sub_string, 9)) # error55
 ```
 
 - isalnum(): Checks alphanumeric character
